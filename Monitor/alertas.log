@@ -1,0 +1,72 @@
+2025-07-10 13:01:29,747 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-10 13:01:29,747 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-10 13:13:31,986 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-10 13:13:31,986 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-10 13:15:15,183 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-10 13:15:15,183 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-12 15:18:34,455 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-12 15:18:34,455 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-12 15:19:31,567 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-12 15:19:31,569 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-12 15:22:13,002 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-12 15:22:13,002 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-16 14:35:51,062 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-16 14:35:51,062 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-16 14:38:30,346 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-16 14:38:30,347 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-16 14:39:08,468 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-16 14:39:08,468 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-16 14:39:40,305 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-16 14:39:40,305 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-16 14:40:34,147 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-16 14:40:34,147 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-30 17:35:09,681 - WARNING - Archivo no encontrado: /ruta/a/archivo1.conf
+2025-07-30 17:35:09,681 - WARNING - Archivo no encontrado: /ruta/a/.env
+2025-07-30 17:42:10,033 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 17:42:10,035 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-07-30 17:43:16,993 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 17:43:16,993 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-07-30 17:43:27,832 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 17:44:35,485 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 17:45:16,662 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 17:45:16,663 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-07-30 17:54:29,566 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 17:54:36,383 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 18:07:01,952 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 18:07:01,952 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-07-30 18:10:48,033 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 18:10:48,033 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-07-30 18:11:47,384 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 18:18:29,860 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 18:21:35,606 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 18:21:35,606 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-07-30 20:19:21,036 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-07-30 20:19:21,036 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-07-30 20:19:56,325 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-06 16:55:56,134 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-11 15:25:47,049 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-11 15:26:01,663 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-11 15:26:01,663 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-11 15:26:20,937 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-11 15:26:31,291 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-11 15:27:01,659 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-11 15:27:15,797 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-11 15:27:15,805 - WARNING - ï¿½ALERTA! Integridad violada en C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-13 16:46:14,390 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 16:46:14,390 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-13 16:46:57,090 - WARNING - ï¿½ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 16:47:17,543 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 16:47:17,543 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-13 16:47:40,407 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 16:47:40,413 - WARNING - ï¿½ALERTA! Integridad violada en C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-13 16:47:55,673 - INFO - Verificaciï¿½n exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 16:47:55,675 - INFO - Verificaciï¿½n exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-13 19:18:47,917 - INFO - Verificación exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 19:18:47,917 - INFO - Verificación exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-13 19:20:46,422 - WARNING - ¡ALERTA! Integridad violada en C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 19:21:30,963 - INFO - Verificación exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 19:21:30,971 - WARNING - ¡ALERTA! Integridad violada en C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-13 19:23:19,468 - INFO - Verificación exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 19:23:19,470 - INFO - Verificación exitosa: C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
+2025-08-13 19:24:35,687 - INFO - Verificación exitosa: C:/users/josep/desktop/progra 1/monitor/archivos/passwords.env
+2025-08-13 19:24:35,687 - WARNING - ¡ALERTA! Integridad violada en C:/Users/josep/Desktop/Progra 1/Monitor/Archivos/system.conf
